@@ -1,5 +1,5 @@
 
-MY TESTER PORTFOLIO
+My Tester's Portfolio
 
 
 
@@ -17,9 +17,9 @@ MY TESTER PORTFOLIO
 - Execution of test cases
 - Reporting detected bugs
 - JavaScript (basics)
+- SQL
 - English B2 (reading and writing technical documentation)
 - The ability to learn quickly
-
 
 ### Technical literature
 - Certyfikowany tester ISTQB - Adam Roman, Lucjan Stapp
