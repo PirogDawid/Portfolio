@@ -36,7 +36,7 @@ My Tester's Portfolio
 
 [Test Case MrBuggy.pdf](https://github.com/PirogDawid/Manual-testing/files/11049958/Test.Case.MrBuggy.pdf)
 
-### Mu bug reports examples
+### My bug reports examples
 
 [Bug report MrBuggy.pdf](https://github.com/PirogDawid/Manual-testing/files/11049959/Bug.report.MrBuggy.pdf)
 
