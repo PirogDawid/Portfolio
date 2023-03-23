@@ -1,5 +1,5 @@
 
-### Hi 👋
+MY TESTER PORTFOLIO
 
 
 
@@ -31,6 +31,15 @@
 - Udemy: Praktyczny kurs testowania oprogramowania
 - Udemy: Postman od podstaw - testowanie REST API
 - Udemy: Cypress od podstaw - Automatyzacja testów
+
+### My test case examples
+
+[Test Case MrBuggy.pdf](https://github.com/PirogDawid/Manual-testing/files/11049958/Test.Case.MrBuggy.pdf)
+
+### Mu bug reports examples
+
+[Bug report MrBuggy.pdf](https://github.com/PirogDawid/Manual-testing/files/11049959/Bug.report.MrBuggy.pdf)
+
 
 
 
